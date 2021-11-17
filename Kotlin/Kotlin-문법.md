@@ -8,7 +8,6 @@
 ## 변수 선언
 ---
 * **type**을 명시 해주어야 됨
-* 코드를 분류하기 위해 사용한다고 생각하기
   
 * ```Kotlin
     //ex)
@@ -32,6 +31,8 @@
 
 ## 함수 선언
 ---
+* 코드를 분류하기 위해 사용한다고 생각하기
+
 * ```Kotlin
     //입력값 있는 함수
     fun functionName(param1 : String, param2 : String){
