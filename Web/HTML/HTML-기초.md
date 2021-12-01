@@ -51,19 +51,23 @@
     <!--ex-->
     <table border = 2>
             <tr>
-            <td>hong</td><td>choi</td>
+                <td>hong</td><td>choi</td>
             </tr>
             <tr>
                 <td>kim</td><td>park</td>
             </tr>
     </table>
     ```
-<center>⬇️</center>
-<center>    <table border = 2>
-            <tr>
+<center>⬇️
+    <table border = 2>
+        <tr>
             <td>hong</td><td>choi</td>
-            </tr>
-            <tr>
-                <td>kim</td><td>park</td>
-            </tr>
-    </table></center>
+        </tr>
+        <tr>
+            <td>kim</td><td>park</td>
+        </tr>
+    </table>
+</center>
+
+* ``<a>`` : 링크
+> 1. ``<a href = "URL"></a>`` : 해당 URL로 이동
