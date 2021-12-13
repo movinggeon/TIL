@@ -1,7 +1,7 @@
 # GET 
 
 * URL에 파라미터를 붙여서 전송함.
-```
+```html
 http://ldg.github.com/index?param1=value1&param2=value2
 ```
 
@@ -29,4 +29,4 @@ http://ldg.github.com/index?param1=value1&param2=value2
 </head>
 ```
 
-* GET방식과는 달리 보내는 데이터를 URL를 통해 볼 수 없어 보안적으로 안전하다곤 하지만 다른 툴을 사용하여 POST영역의 데이터를 확인이 가능하기 때문에 안심해서는 안됩니다.
+* GET방식과는 달리 보내는 데이터를 URL를 통해 볼 수 없어 보안적으로 안전하다곤 하지만 다른 툴을 사용하여 POST영역의 데이터를 확인이 가능하기 때문에 안심해서는 안됨.
